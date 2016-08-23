@@ -1,6 +1,6 @@
 {
-  "name": "file-association",
-  "productName": "file-association",
+  "name": "file-association-spmf-eclat",
+  "productName": "file-association-eclat",
   "version": "0.1.0",
   "author": "Nitin",
   "description": "Provides association between different files within the project",
